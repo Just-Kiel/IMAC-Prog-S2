@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "sdl_image.h": "c",
+        "cassert": "c",
+        "memory": "cpp",
+        "random": "cpp",
+        "sdl.h": "c"
+    },
+    "cmake.cpptools.compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.31.31103/bin/Hostx64/x64/cl.exe"
+}
